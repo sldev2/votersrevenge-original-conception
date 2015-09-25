@@ -22,9 +22,68 @@
   </PropertyGroup>
   <Import Project="$(VSToolsPath)\ArchitectureTools\Microsoft.VisualStudio.TeamArchitect.ModelingProject.targets" Condition="'$(VSToolsPath)' != ''" />
   <ItemGroup>
+    <Folder Include="Design Artifacts\wireframe png" />
     <Folder Include="ModelDefinition\" />
+    <Content Include="Design Artifacts\classmodel.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Design Artifacts\VotersRevenge.bmpr">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Design Artifacts\VotersRevenge.eap">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Design Artifacts\wireframe png\AskForZip.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Design Artifacts\wireframe png\CampaignPhases.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Design Artifacts\wireframe png\CoralinPosseDashboard.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Design Artifacts\wireframe png\CreateCoralinBuddyPosse.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Design Artifacts\wireframe png\CreateSuperPosse.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Design Artifacts\wireframe png\CreateVotersRevengeBuddyPosse.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Design Artifacts\wireframe png\HomePage.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Design Artifacts\wireframe png\InviteFriends.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Design Artifacts\wireframe png\InviteToChildPosse.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Design Artifacts\wireframe png\JoinBuddyPosse.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Design Artifacts\wireframe png\JoinCoralinPosse.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Design Artifacts\wireframe png\JoinSuperPosse.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Design Artifacts\wireframe png\posse breakdown.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Design Artifacts\wireframe png\PosseDashboard.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Design Artifacts\wireframe png\Register.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Design Artifacts\wireframe png\UpdateSuperPosse.png">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="ModelDefinition\Modeling.uml">
       <SubType>Content</SubType>
     </Content>
+    <Folder Include="Design Artifacts" />
   </ItemGroup>
 </Project>
