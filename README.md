@@ -5,4 +5,4 @@ see http://tinyurl.com/nhk2qvq for a requirements document plus links to mind ma
 
 see http://tinyurl.com/oyohmg9 for some wireframes
 
-design tools: sparxxsystems Enterprise Architect, plus Balsamiq (for wireframes) and Xmind (for mind maps); Balsamiq was kind enough to donate a free license for the purposes of votersrevenge - thanks!
+design tools: sparxsystems.com Enterprise Architect, plus Balsamiq (for wireframes) and Xmind (for mind maps); Balsamiq was kind enough to donate a free license for the purposes of votersrevenge - thanks!
